@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[TestNG Framework]]>
+    </line>
+    <line>
+      <![CDATA[TestNG Framework]]>
+    </line>
+    <line>
+      <![CDATA[TestNG Framework]]>
+    </line>
+    <line>
+      <![CDATA[TestNG Framework]]>
+    </line>
+    <line>
+      <![CDATA[Home Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[UN,PWD are exists]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Welcome qaplanet1 displayed]]>
+    </line>
+    <line>
+      <![CDATA[Signoff sucessfull and Home Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Home Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[UN,PWD are exists]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Welcome qaplanet1 displayed]]>
+    </line>
+    <line>
+      <![CDATA[Signoff sucessfull and Home Page displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="CRM Automation" duration-ms="14321" started-at="2019-03-29T03:02:28Z" finished-at="2019-03-29T03:02:42Z">
+    <groups>
+    </groups>
+    <test name="Admin" duration-ms="14321" started-at="2019-03-29T03:02:28Z" finished-at="2019-03-29T03:02:42Z">
+      <class name="TestScripts.Ex1">
+        <test-method status="PASS" signature="method1()[pri:0, instance:TestScripts.Ex1@d2cc05a]" name="method1" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:TestScripts.Ex1@d2cc05a]" name="method4" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG Framework]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:TestScripts.Ex1@d2cc05a]" name="method3" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG Framework]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:TestScripts.Ex1@d2cc05a]" name="method2" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- TestScripts.Ex1 -->
+      <class name="TestScripts.Ex2">
+        <test-method status="PASS" signature="method4()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method4" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG Framework]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method1" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method3" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG Framework]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method2" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method6" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+        <test-method status="PASS" signature="method5()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method5" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method6" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+        <test-method status="PASS" signature="method5()[pri:0, instance:TestScripts.Ex2@643b1d11]" name="method5" is-config="true" duration-ms="0" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+      </class> <!-- TestScripts.Ex2 -->
+      <class name="TestScripts.TC1">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestScripts.TC1@7dc7cbad]" name="SetUp" is-config="true" duration-ms="4268" started-at="2019-03-29T08:32:28Z" finished-at="2019-03-29T08:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyOrangeHRM()[pri:0, instance:TestScripts.TC1@7dc7cbad]" name="VerifyOrangeHRM" duration-ms="2396" started-at="2019-03-29T08:32:32Z" finished-at="2019-03-29T08:32:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Page displayed]]>
+            </line>
+            <line>
+              <![CDATA[UN,PWD are exists]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM Page displayed]]>
+            </line>
+            <line>
+              <![CDATA[Welcome qaplanet1 displayed]]>
+            </line>
+            <line>
+              <![CDATA[Signoff sucessfull and Home Page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyOrangeHRM -->
+        <test-method status="PASS" signature="Shutdown()[pri:0, instance:TestScripts.TC1@7dc7cbad]" name="Shutdown" is-config="true" duration-ms="687" started-at="2019-03-29T08:32:35Z" finished-at="2019-03-29T08:32:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shutdown -->
+      </class> <!-- TestScripts.TC1 -->
+      <class name="TestScripts.TC2">
+        <test-method status="PASS" signature="Config()[pri:0, instance:TestScripts.TC2@4f933fd1]" name="Config" is-config="true" duration-ms="3569" started-at="2019-03-29T08:32:35Z" finished-at="2019-03-29T08:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config -->
+        <test-method status="PASS" signature="VerifyOrangeHRM()[pri:0, instance:TestScripts.TC2@4f933fd1]" name="VerifyOrangeHRM" duration-ms="2745" started-at="2019-03-29T08:32:39Z" finished-at="2019-03-29T08:32:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Page displayed]]>
+            </line>
+            <line>
+              <![CDATA[UN,PWD are exists]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM Page displayed]]>
+            </line>
+            <line>
+              <![CDATA[Welcome qaplanet1 displayed]]>
+            </line>
+            <line>
+              <![CDATA[Signoff sucessfull and Home Page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyOrangeHRM -->
+        <test-method status="PASS" signature="Shutdown()[pri:0, instance:TestScripts.TC2@4f933fd1]" name="Shutdown" is-config="true" duration-ms="625" started-at="2019-03-29T08:32:42Z" finished-at="2019-03-29T08:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shutdown -->
+      </class> <!-- TestScripts.TC2 -->
+    </test> <!-- Admin -->
+  </suite> <!-- CRM Automation -->
+</testng-results>

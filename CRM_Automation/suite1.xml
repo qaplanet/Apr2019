@@ -1,0 +1,7 @@
+<suite name="CRM Automation"  >
+  <test name="Admin"   >
+    <packages>
+      <package name="TestScripts" />
+   </packages>
+ </test>
+</suite>

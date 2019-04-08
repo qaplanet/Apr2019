@@ -1,0 +1,15 @@
+<suite name="CRM Automation" >
+  <test name="Admin" >
+    <classes>
+       <class name="TestScripts.TC1" />
+       <class name="TestScripts.TC2" />
+    </classes>
+  </test>
+ 
+ <!--   <test name="PIM">
+    <classes>
+       <class name="TestScripts.TC1" />
+       <class name="TestScripts.TC2" />
+    </classes>
+  </test> -->
+</suite>
